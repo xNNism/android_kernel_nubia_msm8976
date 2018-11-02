@@ -19,7 +19,7 @@
 #include <linux/spi/spi.h>
 #include <linux/types.h>
 
-#include "include/mtype.h"
+#include "/home/xnn/Desktop/android_kernel_nubia_msm8976/drivers/media/platform/msm/camera_v2/al3200/include/mtype.h"
 
 /******Public Constant Definition******/
 

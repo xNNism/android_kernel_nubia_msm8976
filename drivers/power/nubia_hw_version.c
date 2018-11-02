@@ -22,7 +22,7 @@
 #include <linux/of_device.h>
 #include <linux/delay.h>
 #include <linux/spinlock.h>
-#include <nubia_hw_version.h>
+#include </home/xnn/Desktop/android_kernel_nubia_msm8976/drivers/power/nubia_hw_version.h>
 #include <linux/io.h>
 
 

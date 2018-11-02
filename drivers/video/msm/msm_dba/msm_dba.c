@@ -21,8 +21,8 @@
 #include <linux/slab.h>
 #include <linux/err.h>
 
-#include <video/msm_dba.h>
-#include <msm_dba_internal.h>
+#include </home/xnn/Desktop/android_kernel_nubia_msm8976/drivers/video/msm/msm_dba/msm_dba_internal.h>
+#include </home/xnn/Desktop/android_kernel_nubia_msm8976/drivers/video/msm/msm_dba/msm_dba_internal.h>
 
 static DEFINE_MUTEX(register_mutex);
 
