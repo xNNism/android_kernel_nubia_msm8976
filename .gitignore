@@ -9,6 +9,8 @@
 #
 # Normal rules
 #
+00_/
+out/*
 toolchains/*
 .*
 *.o
